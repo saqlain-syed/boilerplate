@@ -14,9 +14,15 @@
 - Expo Go
 - React Native Paper
 
-[IMG_4536](https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/9f679651-efd0-4884-98e2-f5d12247cd21)
-![IMG_4943](https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/4100d8d0-fee4-4a33-9e71-b54503cbb942)
-![IMG_4944](https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/4c6fc823-eff1-41f4-836b-aeab5a294d89)
-![IMG_4946](https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/2776ce5a-b57c-4f52-9fe9-4d3c563e12d0)
-![IMG_4947](https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/9bc88473-351a-4185-8684-6c77f6788461)
-![IMG_4948](https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/90298801-dc26-45c9-881b-e65680cd603e)]
+<img src="https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/6e4d5f24-79a3-43ba-899e-7f65917f6e13" alt="alt text" width="250" height="500">
+<img src="https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/bd08023f-d8b9-405d-93c7-85eca43cb2da" alt="alt text" width="250" height="500">
+
+<br/>
+<img src="https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/6ac3787d-b23a-4ad3-b510-9929f611c688" alt="alt text" width="250" height="500">
+<img src="https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/6606db5d-faa1-4331-8426-adb78a1e86da" alt="alt text" width="250" height="500">
+<br/>
+
+<img src="https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/bd08023f-d8b9-405d-93c7-85eca43cb2da" alt="alt text" width="250" height="500">
+<img src="https://github.com/saqlain-syed/react-native-boilerplate/assets/41570338/866ee5c8-a233-4b2b-b982-c1b798e4a979" alt="alt text" width="250" height="500">
+
+ 
